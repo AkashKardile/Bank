@@ -25,7 +25,7 @@ The project utilizes Single Linked List technology for efficient data handling. 
 3. Run the application to start managing accounts efficiently.
 
 
-## Usage'
+## Usage
 
 1. Opening an Account: Use the appropriate function to open a new account with the bank.
 2. Updating Balances: Update account balances as necessary.
@@ -48,6 +48,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 Please ensure your code follows the project's coding standards and includes tests where applicable. Your pull request will be reviewed by the maintainers, and once approved, it will be merged into the main branch.
 
 Thank you for contributing to the project!
+
 
 **License**
 This project is licensed under the MIT License. See the [LISENSE](LISENSE) file for more details.
